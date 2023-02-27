@@ -1,0 +1,10 @@
+{
+  "name": "Tournament Registration - Super Smash Bros. Brawl OST",
+  "description": "Its the music that plays when setting up a tourney in brawl.",
+  "author": "Luigi79599",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
